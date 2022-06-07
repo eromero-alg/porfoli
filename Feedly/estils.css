@@ -1,0 +1,101 @@
+body {
+  background-color:#858585;
+  margin: 0;
+  padding: 0;
+}
+
+div{
+background-repeat: no-repeat;
+background-position: 400px;
+}
+
+h1{
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  width: 350px;
+  margin-left: 25px;
+}
+
+p {
+  color: #666;
+  font-size: 18px;
+  font-family: helvetica, sans-serif;
+  text-align: left;
+  line-height: 22px;
+  width: 350px;
+  margin-left: 25px;
+  text-align: left;
+}
+
+ul {
+  text-align: right;
+  margin-top: 0px;
+}
+
+li {
+text-decoration: none;
+display: inline-block;
+margin-top: 20px;
+margin-right: 15px;
+}
+
+#f1 {
+  height: 40px;
+  background-color: #FFF;
+  background-image:url(img/feedly-logo-small-black.png);
+
+  background-position: 5px;
+}
+
+#f2 {
+  height: 550px;
+  background-color: #6C3;
+  background-image:url(img/img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 400px;
+  text-align: left;
+
+}
+
+#f3 {
+  height: 641px;
+  background-color: #FFF;
+  background-image:url(img/allinone.jpg);
+  background-repeat: no-repeat;
+  background-position: 400px;
+}
+
+#f4 {
+  height: 500px;
+  background-color: #333333;
+    background-image:url(img/curator-short.png);
+  background-position: 400px;
+}
+
+#f5 {
+  height: 550px;
+  background-color: #EEECEE;
+    background-image:url(img/img-hero-full-list.png);
+  background-position: 400px;
+}
+
+#f6 {
+  height: 550px;
+  background-color: #6C3;
+    background-image:url(img/mobile-home.png);
+  background-position: 400px;
+}
+
+#f7 {
+  height: 643px;
+  background-color: #EEECEE;
+    background-image:url(img/anywhere.png);
+  background-position: 400px;
+}
+
+#f8 {
+  height: 200px;
+  background-color: #333333;
+  background-position: 400px;
+}
