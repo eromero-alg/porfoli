@@ -1,0 +1,68 @@
+body{
+  background-color: #79728A;
+}
+
+
+
+.petalo{
+  width: 200px;
+  height: 125px;
+  background-color: #4A94F3  ;
+  border-radius: 0% 100% 0% 100%;
+  position: relative;
+
+}
+
+#p1{
+  top: -120px;
+  left: -100px;
+  bottom: auto;
+}
+
+#p2{
+  top: -95px;
+  left:25px;
+  bottom: auto;
+}
+
+#p3{
+  top:-355px;
+  left: 35px;
+  transform: rotate(-90deg);
+  bottom: auto;
+}
+
+#p4{
+  top: -350px;
+  left:-110px;
+  transform: rotate(-90deg);
+  bottom: auto;
+}
+
+.palo{
+  height: 300px;
+  width: 30px;
+  background-color: #506648;
+  position: absolute;
+  top: 490px;
+  left: 860px;
+
+
+}
+#Flor{
+  width: 100px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: black;
+  position: absolute;
+  top: 470px;
+  left: 810px;
+  animation: floreta 4s infinite linear;
+  margin: 0 auto;
+  z-index: 15;
+}
+
+@keyframes floreta {
+0%{transform: rotate(0deg);}
+100%{transform: rotate(360deg);}
+}
